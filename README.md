@@ -6,5 +6,5 @@
 * Jesus Perea [@jperea77](https://github.com/jperea77)
 
 ## Sprint  1:
-* Historia de [Usuario **ED-001**]()
+* Historia de [Usuario **ED-001**](https://github.com/jsuarezserje/usuario_ED-001/tree/main)
 * Historia  de [Técnica **ED-002**]()
