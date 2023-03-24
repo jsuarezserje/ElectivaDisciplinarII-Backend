@@ -7,4 +7,4 @@
 
 ## Sprint  1:
 * Historia de [Usuario **ED-001**](https://github.com/jsuarezserje/usuario_ED-001/tree/main)
-* Historia  de [Técnica **ED-002**]()
+* Historia  de [Técnica **ED-002**](https://github.com/jsuarezserje/tecnica_ED-002)
